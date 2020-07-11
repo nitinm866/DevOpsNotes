@@ -10,7 +10,7 @@
     path: /work
     owner: root
     group: root
-    mode: 01777
+    mode: 00777
 - file:
     src: /file/to/link/to
     dest: /path/to/symlink
